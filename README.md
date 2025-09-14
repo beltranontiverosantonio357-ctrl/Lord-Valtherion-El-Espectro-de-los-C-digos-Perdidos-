@@ -1,2 +1,6 @@
-# Lord-Valtherion-El-Espectro-de-los-C-digos-Perdidos-
-una historia 100% original cada dia intentare subir un capitulo nuevo
+# Lord Valtherion Historia
+
+A Pen created on CodePen.
+
+Original URL: [https://codepen.io/beltran-ontiveros-antonio-de-jesus/pen/wBKLEEv](https://codepen.io/beltran-ontiveros-antonio-de-jesus/pen/wBKLEEv).
+
